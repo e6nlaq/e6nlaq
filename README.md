@@ -8,6 +8,8 @@
 
 ## Other Accounts
 Scratch [@sakamotor](https://scratch.mit.edu/users/sakamotor/)
+
+
 AtCoder [@x__0](https://atcoder.jp/users/x__0)
 
 <!---
