@@ -5,13 +5,13 @@
 - 🇯🇵 I am Japanese.
 
 ## Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=scratch-tools&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=scratch-tools&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/scratch-tools)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=e6nlaq.github.io&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=e6nlaq.github.io&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/e6nlaq.github.io)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=cpp-console-app&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=cpp-console-app&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/cpp-console-app)
 
 ## Other Accounts
 Scratch [@sakamotor](https://scratch.mit.edu/users/sakamotor/)
