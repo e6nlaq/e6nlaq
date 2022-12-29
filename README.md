@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @e6nlaq
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning Java Script
-- 🇯🇵 I am Japanese.
+- 🗾 I am Japanese.
 
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=scratch-tools&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/scratch-tools)
