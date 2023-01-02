@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Java Script
 - 🗾 I am Japanese.
 
+## Contact Us
+[コメント欄的な何か](https://github.com/e6nlaq/Git/issues/1)
+
 ## Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=scratch-tools&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/scratch-tools)
 
