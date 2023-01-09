@@ -16,13 +16,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=e6nlaq&repo=aqua&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/e6nlaq/aqua)
 
-## Other Accounts
-Scratch [@sakamotor](https://scratch.mit.edu/users/sakamotor/)
-
-
-AtCoder [@x__0](https://atcoder.jp/users/x__0)
-
-
 ## Status
 ![](https://komarev.com/ghpvc/?username=e6nlaq)
 
