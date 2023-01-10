@@ -3,6 +3,8 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning Java Script
 - 🗾 I am Japanese.
+- GitHub完全に理解した()
+
 
 ## Contact Us
 [コメント欄的な何か](https://github.com/e6nlaq/Git/issues/1)
@@ -22,6 +24,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e6nlaq&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6nlaq&layout=compact&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## ???
+![ScratchFridayNightFunkinGIF](https://user-images.githubusercontent.com/120777733/211495180-ee78f699-ae2e-4ee6-920b-5f19f4911a17.gif)
 
 <!---
 e6nlaq/e6nlaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
