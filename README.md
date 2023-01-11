@@ -25,9 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6nlaq&layout=compact&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## ???
-![ScratchFridayNightFunkinGIF](https://user-images.githubusercontent.com/120777733/211495180-ee78f699-ae2e-4ee6-920b-5f19f4911a17.gif)
-
 <!---
 e6nlaq/e6nlaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
