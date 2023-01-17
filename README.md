@@ -7,7 +7,9 @@
 
 ## Utilization
 <a href="https://www.blender.org/"><img src='https://img.shields.io/badge/Blender-100000?style=flat&logo=blender&logoColor=FFFFFF&labelColor=000000&color=F5792A'/></img></a>
-<img src='https://img.shields.io/badge/C++-100000?style=flat&logo=cplusplus&logoColor=FFFFFF&labelColor=000000&color=00599C'/></img>
+
+<a href="https://learn.microsoft.com/ja-jp/cpp/cpp/?view=msvc-170"><img src='https://img.shields.io/badge/C++-100000?style=flat&logo=cplusplus&logoColor=FFFFFF&labelColor=000000&color=00599C'/></img></a>
+
 <img src='https://img.shields.io/badge/C Sharp-100000?style=flat&logo=csharp&logoColor=FFFFFF&labelColor=000000&color=239120'/></img>
 <img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000&color=181717'/></img>
 <img src='https://img.shields.io/badge/Power Automate-100000?style=flat&logo=powerautomate&logoColor=FFFFFF&labelColor=000000&color=0066FF'/></img>
