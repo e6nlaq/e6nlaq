@@ -7,16 +7,15 @@
 
 ## Utilization
 <a href="https://www.blender.org/"><img src='https://img.shields.io/badge/Blender-100000?style=flat&logo=blender&logoColor=FFFFFF&labelColor=000000&color=F5792A'/></img></a>
-
 <a href="https://learn.microsoft.com/ja-jp/cpp/cpp/?view=msvc-170"><img src='https://img.shields.io/badge/C++-100000?style=flat&logo=cplusplus&logoColor=FFFFFF&labelColor=000000&color=00599C'/></img></a>
-
-<img src='https://img.shields.io/badge/C Sharp-100000?style=flat&logo=csharp&logoColor=FFFFFF&labelColor=000000&color=239120'/></img>
-<img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000&color=181717'/></img>
-<img src='https://img.shields.io/badge/Power Automate-100000?style=flat&logo=powerautomate&logoColor=FFFFFF&labelColor=000000&color=0066FF'/></img>
-<img src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FFFFFF&labelColor=000000&color=3776AB'/></img>
-<img src='https://img.shields.io/badge/Scratch-100000?style=flat&logo=scratch&logoColor=FFFFFF&labelColor=000000&color=4D97FF'/></img>
-<img src='https://img.shields.io/badge/Terminal-100000?style=flat&logo=windowsterminal&logoColor=FFFFFF&labelColor=000000&color=4D4D4D'/></img>
-<img src='https://img.shields.io/badge/Visual Studio-100000?style=flat&logo=visualstudio&logoColor=FFFFFF&labelColor=000000&color=5C2D91'/></img>
+<a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/"><img src='https://img.shields.io/badge/C Sharp-100000?style=flat&logo=csharp&logoColor=FFFFFF&labelColor=000000&color=239120'/></img></a>
+<a href="https://github.com/"><img src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=FFFFFF&labelColor=000000&color=181717'/></img></a>
+<a href="https://powerautomate.microsoft.com/"><img src='https://img.shields.io/badge/Power Automate-100000?style=flat&logo=powerautomate&logoColor=FFFFFF&labelColor=000000&color=0066FF'/></img></a>
+<a href="https://www.python.org/"><img src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=FFFFFF&labelColor=000000&color=3776AB'/></img></a>
+<a href="https://scratch.mit.edu/"><img src='https://img.shields.io/badge/Scratch-100000?style=flat&logo=scratch&logoColor=FFFFFF&labelColor=000000&color=4D97FF'/></img></a>
+<a href="https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=ja-jp&gl=jp&icid=TopNavWindowsApps"><img src='https://img.shields.io/badge/Terminal-100000?style=flat&logo=windowsterminal&logoColor=FFFFFF&labelColor=000000&color=4D4D4D'/></img></a>
+<a href="https://visualstudio.microsoft.com/"><img src='https://img.shields.io/badge/Visual Studio-100000?style=flat&logo=visualstudio&logoColor=FFFFFF&labelColor=000000&color=5C2D91'/></img></a>
+<a href="https://code.visualstudio.com/"><img src='https://img.shields.io/badge/Visual Studio Code-100000?style=flat&logo=visualstudiocode&logoColor=FFFFFF&labelColor=000000&color=007ACC'/></img></a>
 
 
 ## Contact Us
