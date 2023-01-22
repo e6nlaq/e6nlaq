@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @e6nlaq
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning JavaScript
 - 🗾 I am Japanese.
 
 
