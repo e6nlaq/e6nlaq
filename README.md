@@ -5,7 +5,7 @@
 - 🗾 I am Japanese.
 
 ## Record
-[![Rating](https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat)](https://atcoder.jp/users/x__0?contestType=algo)
+<a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a>
 
 ## Utilization
 <a href="https://www.blender.org/"><img src='https://img.shields.io/badge/Blender-100000?style=flat&logo=blender&logoColor=FFFFFF&labelColor=000000&color=F5792A'/></img></a>
