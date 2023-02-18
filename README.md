@@ -29,9 +29,12 @@
 <br>
 <h2 align="center">Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=e6nlaq&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=e6nlaq&show_icons=true&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9"></p>
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6nlaq&layout=compact&bg_color=0,FFB133,9933ff&title_color=fff&text_color=fff&icon_color=E5E7E9&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 </div>
 
