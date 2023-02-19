@@ -6,7 +6,7 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
 <a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a></p>
 
-<p align=center>柿の種おいしい</p>
+<p align=center>O　O　P　S　!</p>
 
 <br>
 <h2 align=center>Project</h2>
