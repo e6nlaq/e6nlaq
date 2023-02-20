@@ -6,7 +6,7 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
 <a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a></p>
 
-<p align=center>Aで始まり、Cで終わる初心者向けコンテストは、ABC~</p>
+<p align=center>ペ　ナ　ル　テ　ィ　5　0　分</p>
 
 <br>
 <h2 align=center>Project</h2>
