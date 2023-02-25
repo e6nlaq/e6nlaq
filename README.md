@@ -6,7 +6,7 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
 <a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a></p>
 
-<p align=center>GitHubで著名人にフォローされて調子乗ってる人</p>
+<p align=center>AtCoderレート107じゃないよ!!!208だから!!!</p>
 
 <br>
 <h2 align=center>Project</h2>
