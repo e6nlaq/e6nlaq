@@ -8,7 +8,7 @@
 <a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a></p>
 
 
-<p align=center>AtCoderレート109じゃないよ!!!208だから!!!</p>
+<p align=center>ARCやだああああああああああああああああああああ</p>
 
 <br>
 <h2 align=center>Project</h2>
