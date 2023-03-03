@@ -1,4 +1,6 @@
 
+<!-- そこの君!READMEはご自由にどうぞ! -->
+
 <h1 align=center>sakamotor</h1>
 
 <p align=center><img src="./icon.png" width="250px"></p>
@@ -7,7 +9,7 @@
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
 <a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat&label=Rating" alt="Rating" /></a></p>
 
-<p align=center>`Beta`</p>
+<p align=center><code>Beta</code></p>
 
 <br>
 <h2 align=center>Project</h2>
