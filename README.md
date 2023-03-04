@@ -12,6 +12,15 @@
 <p align=center>うーん無理()</p>
 
 <br>
+<h2 align=center>Contact</h2>
+
+<p align=center><a href="https://github.com/e6nlaq/e6nlaq.github.io/issues/1">GitHub Comment</a>
+</p>
+
+<br>
+
+
+
 <h2 align=center>Project</h2>
 
 <div style="text-align: center">
