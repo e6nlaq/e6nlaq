@@ -7,7 +7,7 @@
 
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
-<a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" alt="Rating" /></a></p>
+<a href="https://atcoder.jp/users/x__0?contestType=algo"><img src="https://badgen.org/img/atcoder/x__0/rating/algorithm?style=flat" /></a></p>
 
 <p align=center>ABCのA問題全部解いてあります</p>
 
