@@ -3,7 +3,7 @@
 
 <h1 align=center>sakamotor</h1>
 
-<p align=center><img src="./icon.png" width="250px"></p>
+<p align=center><img src="./icon.png" width="200px"></p>
 
 <p align=center><img src="https://komarev.com/ghpvc/?username=e6nlaq">
 <a href="https://atcoder.jp/users/x__0" target="_blank" title="x__0"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fx__0" /></a>
