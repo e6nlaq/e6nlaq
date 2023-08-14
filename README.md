@@ -9,7 +9,7 @@
 <a href="https://atcoder.jp/users/x__0" target="_blank" title="x__0"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fx__0" /></a>
 <a href="https://codeforces.com/profile/e6nlaq" target="_blank" title="e6nlaq"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fe6nlaq" /></a></p>
 
-<p align=center>へっぉ</p>
+<p align=center>:thinking:</p>
 
 <br>
 
