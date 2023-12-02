@@ -11,7 +11,7 @@
 <a href="https://qiita.com/e6nlaq"><img src="https://badgen.org/img/qiita/e6nlaq/contributions?style=flat" alt="Contributions" /></a>
 </p>
 
-<p align=center>水パフォをよこせ</p>
+<p align=center>alt+f5</p>
 
 <br>
 
