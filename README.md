@@ -28,7 +28,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=e6nlaq&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e6nlaq&layout=compact&show_icons=true&theme=tokyonight" height=195px>
-  <a href="https://qiita.com/e6nlaq"><img src="https://badgen.org/img/qiita/e6nlaq/articles?style=flat" alt="Articles" /></a>
 </p>
 
 </div>
