@@ -1,11 +1,6 @@
 
 <!-- そこの君!READMEはご自由にどうぞ! -->
 
-<!-- nakasyou/nakasyou より引用 -->
-```math
-\ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/e6nlaq/e6nlaq/blob/main/ad.png?raw=true');]{x0000}$}
-```
-
 <h1 align=center>sakamotor</h1>
 
 <p align=center><img src="./グラデicon〇.png" width="200px"></p>
