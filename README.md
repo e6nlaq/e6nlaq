@@ -3,7 +3,7 @@
 
 <!-- nakasyou/nakasyou より引用 -->
 ```math
-\ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/e6nlaq/e6nlaq/main/pur.png');]{x0000}$}
 ```
 
 <h1 align=center>sakamotor</h1>
