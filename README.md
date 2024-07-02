@@ -1,7 +1,7 @@
 
 <!-- そこの君!READMEはご自由にどうぞ! -->
 
-<h1 align=center>sakamotor</h1>
+<h1 align=center>e6nlaq</h1>
 
 <p align=center><img src="./グラデicon〇.png" width="200px"></p>
 
@@ -11,11 +11,12 @@
 <a href="https://qiita.com/e6nlaq"><img src="https://badgen.org/img/qiita/e6nlaq/contributions?style=flat" alt="Contributions" /></a>
 </p>
 
-<p align=center>{}</p>
+<p align=center>Hi!</p>
 
 <br>
 
 <div align=center>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,html,react,vite,py"></img>
 <img src="https://raw.githubusercontent.com/e6nlaq/e6nlaq/img/github-contribution-grid-snake-dark.svg"></img></div>
 
 <p align=center><a href="https://github.com/e6nlaq/e6nlaq.github.io/issues/1">Contact</a>
