@@ -16,7 +16,7 @@
 <br>
 
 <div align=center>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,html,react,vite,py"></img>
+<img src="https://skillicons.dev/icons?i=cpp,ts,bun,nextjs,tailwind,py,rust"></img>
 <img src="https://raw.githubusercontent.com/e6nlaq/e6nlaq/img/github-contribution-grid-snake-dark.svg"></img></div>
 
 <p align=center><a href="https://github.com/e6nlaq/e6nlaq.github.io/issues/1">Contact</a>
@@ -32,4 +32,5 @@
 </p>
 
 </div>
+
 
