@@ -22,14 +22,14 @@
 <!-- <p align=center><a href="https://github.com/e6nlaq/e6nlaq.github.io/issues/1">Contact</a> -->
 </p>
 
-<br>
+<!-- <br>
 
-<br>
+<br> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats-six-silk-74.vercel.app/api?username=e6nlaq&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats-six-silk-74.vercel.app/api/top-langs/?username=e6nlaq&layout=compact&show_icons=true&theme=tokyonight" height=195px>
-</p>
+</p> -->
 
 </div>
 
